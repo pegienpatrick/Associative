@@ -1,6 +1,6 @@
 # Associative
 
-It is an associative array implemented in C++. It enables data to be stored as shown below in C++.
+It is an associative array like python dictionary implemented in C++. It enables data to be stored as shown below in C++.
 
 ```cpp
 associative student;
